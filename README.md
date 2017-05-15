@@ -7,7 +7,7 @@ Please use Gecode Solver 4.2.0 to run these files.
 
 Put WNC folder into gecode folder and efpa_lresbds_WNC.cpp file into example folder.
 
-To run the N-Queens problem (e.g. N=10) using one of the symmetry breaking methods NONE/DoubleLex/SnakeLex/LDSB/LReSBDS:
+To run the EFPA problem (e.g. (5 3 3 4)) using one of the symmetry breaking methods NONE/DoubleLex/SnakeLex/LDSB/LReSBDS:
 
 ./efpa_lresbds_WNC -search none 5 3 3 4
 
