@@ -1,7 +1,7 @@
 # Weak-Nogood-Consistency
 Weak Nogood Consistency
 
-This is the implementation of the method LReSBDS using the incNGs global constraint proposed in the paper "Jimmy H.M. Lee and Zichen Zhu.  Filtering Nogoods Lazily in Dynamic Symmetry Breaking During Search, Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), pages 339-345, Buenos Aires, Argentina, July, 2015"
+This is the implementation of the Weak-Nogood-Consistency on the symmetry breaking nogoods proposed in the paper "Jimmy H.M. Lee and Zichen Zhu.  Filtering Nogoods Lazily in Dynamic Symmetry Breaking During Search, Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), pages 339-345, Buenos Aires, Argentina, July, 2015"
 
 Please use Gecode Solver 4.2.0 to run these files.
 
